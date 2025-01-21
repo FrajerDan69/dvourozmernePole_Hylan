@@ -5,3 +5,5 @@ arraya=[
 ]
 for row in arraya:
     print(row)
+
+arraya[1][1] = 105
